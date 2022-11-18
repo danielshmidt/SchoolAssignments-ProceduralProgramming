@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays_1/Arrays_1.iml" filepath="$PROJECT_DIR$/Arrays_1/Arrays_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays_2/Arrays_2.iml" filepath="$PROJECT_DIR$/Arrays_2/Arrays_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays_3/Arrays_3.iml" filepath="$PROJECT_DIR$/Arrays_3/Arrays_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Datentypen/Datentypen.iml" filepath="$PROJECT_DIR$/Datentypen/Datentypen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EinfacheBerechnungen/EinfacheBerechnungen.iml" filepath="$PROJECT_DIR$/EinfacheBerechnungen/EinfacheBerechnungen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funktionen/Funktionen.iml" filepath="$PROJECT_DIR$/Funktionen/Funktionen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rechnung/Rechnung.iml" filepath="$PROJECT_DIR$/Rechnung/Rechnung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RekursiveFunktionen/RekursiveFunktionen.iml" filepath="$PROJECT_DIR$/RekursiveFunktionen/RekursiveFunktionen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SchoolAssignments.iml" filepath="$PROJECT_DIR$/.idea/SchoolAssignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structs/Structs.iml" filepath="$PROJECT_DIR$/Structs/Structs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VerwendungVonIterationskontrollstrukturenInJava/VerwendungVonIterationskontrollstrukturenInJava.iml" filepath="$PROJECT_DIR$/VerwendungVonIterationskontrollstrukturenInJava/VerwendungVonIterationskontrollstrukturenInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VerwendungVonSelektionskontrollstrukturenInJava/VerwendungVonSelektionskontrollstrukturenInJava.iml" filepath="$PROJECT_DIR$/VerwendungVonSelektionskontrollstrukturenInJava/VerwendungVonSelektionskontrollstrukturenInJava.iml" />
+    </modules>
+  </component>
+</project>
